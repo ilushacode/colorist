@@ -4,9 +4,7 @@ A minimalist, high-performance command-line tool written in Rust to extract domi
 
 ---
 
-<p align="center">
-  <img src="screenshot.png" alt="colorist help output" width="600">
-</p>
+![Help list of colorist](screenshot.png)
 
 ---
 
