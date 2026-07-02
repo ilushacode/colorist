@@ -4,6 +4,12 @@ A minimalist, high-performance command-line tool written in Rust to extract domi
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="colorist help output" width="600">
+</p>
+
+---
+
 ## Features
 
 * **Fast Clustering**: Uses optimized K-Means algorithm to find real dominant colors instead of random pixel sampling.
