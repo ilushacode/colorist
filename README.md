@@ -25,7 +25,7 @@ Make sure you have the Rust toolchain installed (cargo, rustc). If not, get it f
 Clone the repository and compile the release version:
 
 ```bash
-git clone https://github.com/your-username/colorist.git
+git clone https://github.com/ilushacode/colorist.git
 cd colorist
 cargo build --release
 ```
